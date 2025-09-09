@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; margin-left: 32px;">
+<div style="display: flex; justify-content: center; margin-left: 32;">
     <a href="./"><img src="assets/images/tree-sitter-small.png" width="200" height="200" alt="Tree-sitter logo" /></a>
 </div>
 
